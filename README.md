@@ -1,0 +1,1 @@
+基于springboot和vue的学生选课系统，数据库为MySQL（运行时yml文件中的数据库账户需修改）
